@@ -4,7 +4,7 @@ import androidx.compose.runtime.Composable
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import ru.savezoe.alarmapp.screens.MainScreen
+import ru.savezoe.alarmapp.presenter.screens.MainScreen
 
 object MainDestination {
     const val MAIN_SCREEN = "main_screen"

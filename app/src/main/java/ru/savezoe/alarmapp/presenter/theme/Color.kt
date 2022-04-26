@@ -1,4 +1,4 @@
-package ru.savezoe.alarmapp.ui.theme
+package ru.savezoe.alarmapp.presenter.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -10,8 +10,8 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import ru.savezoe.alarmapp.navigation.SetupNavHost
-import ru.savezoe.alarmapp.screens.MainScreen
-import ru.savezoe.alarmapp.ui.theme.AlarmAppTheme
+import ru.savezoe.alarmapp.presenter.screens.MainScreen
+import ru.savezoe.alarmapp.presenter.theme.AlarmAppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
